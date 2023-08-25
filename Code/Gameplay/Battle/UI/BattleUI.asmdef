@@ -1,0 +1,22 @@
+{
+    "name": "BattleUI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:7e1a4c44f426c4446b48ae8b7a6b233e",
+        "GUID:52cde1768542af84cad18b25141fa320",
+        "GUID:65ccfd444f312a74d9242b7b27733ec3",
+        "GUID:c0fe497a3db179949b093c9abe6a41e3",
+        "GUID:22e592b4a32db3342897c430603aae99",
+        "GUID:bf76fb608a598b9409168b0bee4777da"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
